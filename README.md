@@ -19,7 +19,8 @@ Developed a Power BI dashboard to analyze hospital bed occupancy, patient wait t
 - Patient admissions fluctuated across months.
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard_overview.png)
+<img width="1366" height="768" alt="health_dashboard" src="https://github.com/user-attachments/assets/276519e9-ea89-42ac-80ef-2c51e2fc5117" />
+
 
 ## Files Included
 - Power BI Dashboard (.pbix)
