@@ -48,7 +48,6 @@ This project uses a  **hospital dataset** containing **3,000 patient records** d
 
 **Dataset:** [hospital_dataset.xltm](Hospital_Dataset/hospital_dataset.xltm)
 
-
 #  Key Performance Indicators (KPIs)
 
 | KPI                    | Value     | Description                                   |
