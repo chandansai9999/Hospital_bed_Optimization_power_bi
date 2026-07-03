@@ -29,6 +29,25 @@ The objective of this dashboard is to:
 * Data Modeling
 * Excel Dataset
 
+##  Dataset
+
+This project uses a  **hospital dataset** containing **3,000 patient records** designed to simulate real-world hospital operations across multiple departments.
+
+### Dataset Features
+
+* Patient ID
+* Age
+* Gender
+* Department
+* Doctor
+* Admission Date
+* Discharge Date
+* Wait Time (Minutes)
+* Treatment Cost
+* Bed ID
+
+**Dataset:** [hospital_dataset.xltm](Hospital_Dataset/hospital_dataset.xltm)
+
 
 #  Key Performance Indicators (KPIs)
 
