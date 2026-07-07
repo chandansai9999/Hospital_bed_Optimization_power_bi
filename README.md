@@ -26,12 +26,11 @@ The objective of this dashboard is to:
 
 * Power BI
 * DAX
-* Data Modeling
 * Excel Dataset
 
 ##  Dataset
 
-This project uses a  **hospital dataset** containing **3,000 patient records** designed to simulate real-world hospital operations across multiple departments.
+This project uses a  **hospital dataset** containing around**3K patient records** designed to simulate real-world hospital operations across multiple departments.
 
 ### Dataset Features
 
@@ -65,8 +64,6 @@ This project uses a  **hospital dataset** containing **3,000 patient records** d
 
 ## 1. Patient Volume vs Average Wait Time by Department
 
-### Purpose
-
 Compares patient volume and average waiting time across departments to identify potential operational bottlenecks.
 
 <img width="260" height="179" alt="image" src="https://github.com/user-attachments/assets/7df6a031-69e6-41e5-a3dc-775795458632" />
@@ -74,15 +71,11 @@ Compares patient volume and average waiting time across departments to identify 
 
 ## 2. Monthly Patient Admissions Trend
 
-### Purpose
-
 Shows monthly admission patterns and helps identify periods of increased patient demand throughout the year.
 
 <img width="260" height="175" alt="image" src="https://github.com/user-attachments/assets/529fe8f4-ea65-4188-b9ed-03512596f36d" />
 
 ## 3. Bed Occupancy Rate by Department
-
-### Purpose
 
 Compares bed utilization across departments to understand capacity usage and identify departments operating near occupancy limits.
 
@@ -90,15 +83,11 @@ Compares bed utilization across departments to understand capacity usage and ide
 
 ## 4. Monthly Patient Load vs Average Wait Time
 
-### Purpose
-
 Analyzes the relationship between patient volume and waiting times across different months.
 
 <img width="268" height="179" alt="image" src="https://github.com/user-attachments/assets/8e399a61-b019-4157-826c-ef8d47cdcbdf" />
 
 ## 5. Department Efficiency Matrix
-
-### Purpose
 
 Evaluates departmental performance using bed occupancy rate and average waiting time.
 
@@ -108,8 +97,6 @@ Departments with higher occupancy and lower wait times are generally considered 
 
 ## 6. Department-wise Average Treatment Cost
 
-### Purpose
-
 Compares treatment costs across departments to identify high-cost service areas.
 
 <img width="265" height="181" alt="image" src="https://github.com/user-attachments/assets/efac5df3-c4ca-4c31-ae70-57b3c86d7f32" />
@@ -117,16 +104,8 @@ Compares treatment costs across departments to identify high-cost service areas.
 # Key Findings
 
 * Emergency department handles the highest patient volume while maintaining relatively controlled waiting times.
-
 * Neurology experiences longer patient wait times despite lower occupancy levels, indicating potential workflow inefficiencies.
-
-* Patient admissions fluctuate throughout the year, with certain months experiencing noticeably higher demand.
-
 * Emergency department operates at the highest bed occupancy levels, indicating strong resource utilization.
-
-* Departmental efficiency varies significantly across hospital units, highlighting opportunities for operational improvements.
-
-* Treatment costs differ across departments, with specialized departments incurring higher average costs.
 
 # Business Recommendations
 
@@ -140,12 +119,6 @@ Compares treatment costs across departments to identify high-cost service areas.
 This dashboard helps hospital administrators:
 
 * Monitor operational performance in real time
-
-* Improve bed utilization management
-
 * Identify bottlenecks affecting patient flow
-
 * Support efficient resource allocation
-
-* Enable data-driven healthcare planning
 
